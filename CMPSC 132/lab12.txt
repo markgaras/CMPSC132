@@ -1,0 +1,13 @@
+I did not have any issues when replacing my code with the given. 
+
+Now critically examine the code in the convertToPostfix function definition.
+ What differences do you see between your function definition and this version?
+ Using material from CMPSC 132, write a paragraph about the use of data structures
+ in the downloaded version of project 3.
+
+The only differences I saw was that I did my precedence with with a dictionary, and 
+there were times where my if statements checked if something==something, where
+the given code instead checked if something!=something and switched around the code under
+the if. Essentially, the data structures built in a way that it could be replaced seamlessly
+and that shows uniformaty. Other than that, the code was the same (besides variable naming and
+comments of course). I also printed within the convertToPostFix instead of outside the function.
